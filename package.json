@@ -39,7 +39,7 @@
     "release": "standard-version"
   },
   "dependencies": {
-    "izitoast": "^1.2.0"
+    "izitoast": "1.2.0"
   },
   "peerDependencies": {
     "@angular/core": ">=5.0.0 <6.0.0"
